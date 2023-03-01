@@ -1,0 +1,12 @@
+body {background-color: pink}
+
+
+img{width:30%;
+   height:20%;
+   float: right;
+   width: 300px;
+   padding: 10px;}
+
+h1 {text-align: center;
+   background-color: black;
+   color:white}
